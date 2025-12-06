@@ -3,4 +3,4 @@
 ### As of right now, they are targeting 3 specific fields of medical assistance: Neurological, Cardiovascular, and Diabetical, with their most infamous products being insulin pumps and heart pacemakers.
 ### I wanted to simulate a system for a company that I'd be interested in working for and Medtronic does that for me.
 
-{% include index.html %}
+{% include embed.html %}
